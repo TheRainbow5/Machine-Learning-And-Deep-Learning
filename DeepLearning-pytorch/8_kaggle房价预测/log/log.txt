@@ -1,0 +1,23 @@
+5-折验证: 平均训练log rmse: 0.139436, 平均验证log rmse: 0.145734,
+参数:lr=6,w_decay=0.04,num_epochs=100,batch_size=64,k=5
+5-折验证: 平均训练log rmse: 0.136763, 平均验证log rmse: 0.143919,
+参数:lr=7,w_decay=0.04,num_epochs=100,batch_size=64,k=5
+5-折验证: 平均训练log rmse: 0.222402, 平均验证log rmse: 0.298605,
+参数:lr=7,w_decay=5,num_epochs=100,batch_size=64,k=5
+5-折验证: 平均训练log rmse: 0.132556, 平均验证log rmse: 0.140698,
+参数:lr=7,w_decay=0.01,num_epochs=100,batch_size=64,k=5
+
+
+5-折验证: 平均训练log rmse: 0.042834, 平均验证log rmse: 0.108394,
+参数:
+lr=7,w_decay=0.01,num_epochs=100,batch_size=64,k=5,hidden1=20
+5-折验证: 平均训练log rmse: 0.047984, 平均验证log rmse: 0.110005,
+参数:
+lr=7,w_decay=0.01,num_epochs=100,batch_size=64,k=5,hidden1=25
+5-折验证: 平均训练log rmse: 0.055220, 平均验证log rmse: 0.107122,
+参数:
+lr=7,w_decay=0.01,num_epochs=100,batch_size=64,k=5,hidden1=22
+
+5-折验证: 平均训练log rmse: 0.051436, 平均验证log rmse: 0.111129,
+参数:
+lr=7,w_decay=0.01,num_epochs=100,batch_size=64,k=5,hidden1=22
